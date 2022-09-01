@@ -14,3 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+#### Stack
+
+- Git, Linux, Bash;
+- Python;
+- Django;
+- Poetry;
+- Flake8;
+- Pandas, NumPy;
+- Seaborn, matplotlib;
