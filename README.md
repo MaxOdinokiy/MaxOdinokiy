@@ -15,7 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-#### Stack
+### I'm Max and I am Python developer
+
+### My stack:
 
 - Git, Linux, Bash;
 - Python;
