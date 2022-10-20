@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-### I'm Max and I am looking for a Python Developer job
+### I'm Max and here is my projects. You're welcome!
 _________________________________________
 
 ### My stack:
